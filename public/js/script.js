@@ -38,9 +38,6 @@ radio1.addEventListener('click', () => {
         card.style.backgroundColor = '#ffffff'
         dkk.textContent = 'DKK 00.000'
         card.style.border = '1px solid #ccc'
-        card2.style.border = '1px solid #ccc'
-        card3.style.border = '1px solid #ccc'
-
     }
 });
 radio2.addEventListener('click', () => {
@@ -68,8 +65,7 @@ radio2.addEventListener('click', () => {
         card2.style.backgroundColor = '#ffffff'
         dkk.textContent = 'DKK 00.000'
         card2.style.border = '1px solid #ccc'
-        card3.style.border = '1px solid #ccc'
-        card.style.border = '1px solid #ccc'
+
 
 
     }
@@ -98,8 +94,7 @@ radio2.addEventListener('click', () => {
         card3.style.backgroundColor = '#ffffff'
         dkk.textContent = 'DKK 00.000'
         card3.style.border = '1px solid #ccc'
-        card2.style.border = '1px solid #ccc'
-        card.style.border = '1px solid #ccc'
+
 
     }
 });
