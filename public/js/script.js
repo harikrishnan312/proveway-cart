@@ -21,6 +21,8 @@ radio1.addEventListener('click', () => {
         radio3.checked = false;
 
         card.style.border='2px solid green'
+        card2.style.border = '1px solid #ccc'
+        card3.style.border = '1px solid #ccc'
 
         dropDowns2.style.display = 'none';
         card2.style.backgroundColor = '#ffffff'
@@ -49,6 +51,8 @@ radio2.addEventListener('click', () => {
         radio3.checked = false;
 
         card2.style.border = '2px solid green'
+        card3.style.border = '1px solid #ccc'
+        card.style.border = '1px solid #ccc'
 
         dropDowns.style.display = 'none';
         card.style.backgroundColor = '#ffffff'
@@ -77,6 +81,8 @@ radio2.addEventListener('click', () => {
         radio2.checked = false;
 
         card3.style.border = '2px solid green'
+        card2.style.border = '1px solid #ccc'
+        card.style.border = '1px solid #ccc'
 
         dropDowns.style.display = 'none';
         card.style.backgroundColor = '#ffffff'
